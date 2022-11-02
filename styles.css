@@ -1,0 +1,18 @@
+.titulo-1{
+    color:blueviolet;
+    background-color:darkgray;   
+}
+body{
+    background-image: url(https://w0.peakpx.com/wallpaper/656/827/HD-wallpaper-chef-minion-cartoons.jpg);
+    background-size: contain;
+}
+.button{
+    background-color: coral;
+}
+.button p{
+    color: azure;
+}
+tr{
+    background-color: azure;
+    color:black
+}
